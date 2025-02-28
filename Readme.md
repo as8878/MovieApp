@@ -9,7 +9,7 @@
 | Splash | Main Screen |  Main Screen 2 |
 |:-:|:-:|:-:|
 
-| ![4](screenshots/ss4.jpg?raw=true) | [APK](screenshots/app_movie.apk) | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AE9xLklir_I/0.jpg)](https://www.youtube.com/watch?v=AE9xLklir_I)|
+| ![4](screenshots/ss4.jpg?raw=true) | [APK](screenshots/app_movie.apk) |
 
 ## 🌟 Features
 *   Slider of Upcoming Movies
