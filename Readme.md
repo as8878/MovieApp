@@ -5,7 +5,7 @@
 	Discover the most popular and top rated movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
 </h4>
 
-| [APK](screenshots/app_movie.apk) |
+
 
 ## 🌟 Features
 *   Slider of Upcoming Movies
