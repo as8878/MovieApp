@@ -16,12 +16,6 @@
 *   Pagination and endless scrolling using Android paging library (for Discover Movies)
 *   Material design 3
 
-## 🚀 Our Goal
-Create such application to learn and implement android's new features & framework.
-
-### Prerequisites
-*   Android Studio Flamingo | 2022.2.1 Patch 1
-*   Java JDK 17 or 11
 ## Setup
 
 #### The Movie Database API
