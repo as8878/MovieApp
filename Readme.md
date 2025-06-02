@@ -28,10 +28,10 @@
 
 
 ## 📃 Libraries used
-*   [AndroidX](https://developer.android.com/jetpack/androidx/) - Previously known as 'Android support Library'
-*   [Glide](https://github.com/bumptech/glide) - for loading and caching images
-*   [Retrofit 2](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
-*   [Gson](https://github.com/google/gson) - for serialization/deserialization Java Objects into JSON and back
+*   [AndroidX](https://developer.android.com/jetpack/androidx/) 
+*   [Glide](https://github.com/bumptech/glide) 
+*   [Retrofit 2](https://github.com/square/retrofit)
+*   [Gson](https://github.com/google/gson)
 *   [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 *   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 *   [Paging](https://developer.android.com/topic/libraries/architecture/paging/)
